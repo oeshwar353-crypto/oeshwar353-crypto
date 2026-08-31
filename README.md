@@ -22,24 +22,4 @@ I'm a Software Engineering student focused on Full-Stack Development, Backend En
 
 <div align="center">
 
-```text
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│  om@github:~$ whoami                                 │
-│                                                      │
-│  Software Engineering Student                        │
-│  Full-Stack Developer                                │
-│  Backend Engineering Enthusiast                      │
-│  AI Engineering Explorer                             │
-│                                                      │
-│  om@github:~$ ./current_focus                         │
-│                                                      │
-│  > Data Structures & Algorithms                       │
-│  > Backend Development                                │
-│  > Full-Stack Applications                            │
-│  > AI Engineering                                    │
-│                                                      │
-│  om@github:~$ echo "Build. Learn. Repeat."           │
-│                                                      │
-└──────────────────────────────────────────────────────┘
 
