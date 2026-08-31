@@ -7,6 +7,18 @@
 ### Full-Stack • Backend • AI Engineering
 
 </div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a Software Engineering student focused on Full-Stack Development, Backend Engineering, and AI. I enjoy building real-world products and solving meaningful problems.
+
+- 🔭 Currently building: **Briz**
+- 🌱 Learning: **DSA • Backend Engineering • AI**
+- 💻 Interested in: **Software Engineering • AI Systems • Backend Architecture**
+- 🚀 Goal: **Build useful software and become a strong Software Engineer**
+  
 <!--
 **oeshwar353-crypto/oeshwar353-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
