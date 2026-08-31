@@ -18,8 +18,4 @@ I'm a Software Engineering student focused on Full-Stack Development, Backend En
 - 🌱 Learning: **DSA • Backend Engineering • AI**
 - 💻 Interested in: **Software Engineering • AI Systems • Backend Architecture**
 - 🚀 Goal: **Build useful software and become a strong Software Engineer**
-  ---
-
-<div align="center">
-
 
